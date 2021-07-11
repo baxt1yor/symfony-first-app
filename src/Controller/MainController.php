@@ -4,7 +4,6 @@ namespace App\Controller;
 
 use App\Entity\Crud;
 use App\Form\CrudType;
-use JetBrains\PhpStorm\NoReturn;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Request;
